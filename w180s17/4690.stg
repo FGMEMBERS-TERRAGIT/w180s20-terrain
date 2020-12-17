@@ -1,0 +1,4 @@
+OBJECT_BASE 4690.btg
+OBJECT NFNH.btg
+OBJECT_SHARED Models/Airport/windsock.xml -179.667499 -16.749741 4.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -179.666192 -16.747277 -9999.0 0.00

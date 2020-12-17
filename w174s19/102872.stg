@@ -1,0 +1,4 @@
+OBJECT_BASE 102872.btg
+OBJECT NFTV.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -173.970929 -18.585370 70.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -173.962733 -18.584554 72.4 0.00
